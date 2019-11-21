@@ -1,0 +1,912 @@
+{
+    "code": 0,
+    "resultMessage": "",
+    "data": {
+        "productId": 32290,
+        "productName": "苹果 iPhone 11",
+        "status": null,
+        "title": "Apple iPhone 11",
+        "subtitle": "移动联通电信4G手机 双卡双待",
+        "stockExist": null,
+        "inventoryType": 1,
+        "thumbnailMedias": null,
+        "headerMedias": [
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/d696a897673f5c3bMTU3MTMwOTk3OTAzNw==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/233ffb08dee6e897MTU3MTMwOTk4ODI2Nw==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/cbb95527970f0321MTU3MTMwOTk5NjU1Mg==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/be70000334b14b22MTU3MTMxMDAwMjgyMA==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/6f80fa75e7fe2864MTU3MTMxMDAwODQ1MQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/a4ff0dd48086f3e4MTU3MTMxMDAyOTk1MQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/2f1c5121cfda51a1MTU3MTMxMDAzOTA2Mg==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/bbefcaf2535b4aedMTU3MTMxMDA0OTM4NQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/a8d1fefe9062f6c2MTU3MTMxMDA2MTI5Nw==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/c3a0fdb41139cfb8MTU3MTMxMDA2NTk3MQ==.jpg",
+                "videoUrl": null
+            }
+        ],
+        "introduction": [],
+        "specification": null,
+        "specifications": null,
+        "service": [
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-service-img/efc8083197de5b21MTU2ODg5MTMzODg2OA==.jpg"
+            }
+        ],
+        "tags": [
+            {
+                "type": 1,
+                "items": [
+                    {
+                        "text": "正品自营"
+                    }
+                ]
+            }
+        ],
+        "productOptions": [
+            {
+                "id": 2,
+                "name": "存储空间",
+                "note": "",
+                "values": [
+                    {
+                        "id": 2,
+                        "value": "64GB",
+                        "note": ""
+                    },
+                    {
+                        "id": 7,
+                        "value": "128GB",
+                        "note": ""
+                    },
+                    {
+                        "id": 90,
+                        "value": "256GB",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "颜色",
+                "note": "",
+                "values": [
+                    {
+                        "id": 131,
+                        "value": "黄色",
+                        "note": "-"
+                    },
+                    {
+                        "id": 69,
+                        "value": "黑色",
+                        "note": ""
+                    },
+                    {
+                        "id": 133,
+                        "value": "红色",
+                        "note": "-"
+                    },
+                    {
+                        "id": 341,
+                        "value": "紫色",
+                        "note": ""
+                    },
+                    {
+                        "id": 70,
+                        "value": "白色",
+                        "note": ""
+                    },
+                    {
+                        "id": 342,
+                        "value": "绿色",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "id": 41,
+                "name": "网络类型",
+                "note": "",
+                "values": [
+                    {
+                        "id": 163,
+                        "value": "全网通",
+                        "note": "-"
+                    }
+                ]
+            }
+        ],
+        "optionImage": {
+            "optionId": 3,
+            "optionImages": [
+                {
+                    "optionValueId": 131,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/d696a897673f5c3bMTU3MTMxMDIwMjI1Mw==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/233ffb08dee6e897MTU3MTMxMDIwOTY5NQ==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 69,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/a4ff0dd48086f3e4MTU3MTMxMDIxNzczNQ==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/2f1c5121cfda51a1MTU3MTMxMDIyMjY1Nw==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 341,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/6f80fa75e7fe2864MTU3MTMxMDI1MjM4NQ==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/6c319bd5c216e105MTU3MTMxMDI1ODQxNQ==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 133,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/cbb95527970f0321MTU3MTMxMDIzMTQ2Ng==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/be70000334b14b22MTU3MTMxMDI0MTg1NA==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 70,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/8a3b41a10259aa84MTU3MTMxMDI2ODUxMg==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/abd88adcaa54018eMTU3MTMxMDI3NjU5Nw==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 342,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/bbefcaf2535b4aedMTU3MTMxMDI4NjEwMQ==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/2e57f16ecaa92cbeMTU3MTMxMDI5NDI1NQ==.jpg"
+                    ]
+                }
+            ]
+        },
+        "skus": [
+            {
+                "id": 750,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 64GB 黑色 全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    69
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 69,
+                        "value": "黑色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 751,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 64GB 白色 全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    70
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 70,
+                        "value": "白色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 752,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 64GB 黄色 全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    131,
+                    163
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 131,
+                        "value": "黄色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 753,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 64GB 红色 全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    133
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 133,
+                        "value": "红色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 754,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 64GB 紫色 全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    341
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 341,
+                        "value": "紫色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 755,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 64GB 绿色 全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    342
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 342,
+                        "value": "绿色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 756,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 128GB 黑色 全网通",
+                "note": null,
+                "price": 599900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    69,
+                    7
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 69,
+                        "value": "黑色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 4,
+                "stockExist": true
+            },
+            {
+                "id": 757,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 128GB 白色 全网通",
+                "note": null,
+                "price": 599900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    70,
+                    7
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 70,
+                        "value": "白色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 4,
+                "stockExist": true
+            },
+            {
+                "id": 758,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 128GB 黄色 全网通",
+                "note": null,
+                "price": 599900,
+                "images": null,
+                "productOptionValues": [
+                    131,
+                    163,
+                    7
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 131,
+                        "value": "黄色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 759,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 128GB 红色 全网通",
+                "note": null,
+                "price": 599900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    133,
+                    7
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 133,
+                        "value": "红色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 760,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 128GB 紫色 全网通",
+                "note": null,
+                "price": 599900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    341,
+                    7
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 341,
+                        "value": "紫色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 761,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 128GB 绿色 全网通",
+                "note": null,
+                "price": 599900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    342,
+                    7
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 342,
+                        "value": "绿色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 762,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 256GB 黑色 全网通",
+                "note": null,
+                "price": 679900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    69,
+                    90
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 69,
+                        "value": "黑色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 10000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 763,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 256GB 白色 全网通",
+                "note": null,
+                "price": 679900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    70,
+                    90
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 70,
+                        "value": "白色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 10000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 764,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 256GB 黄色 全网通",
+                "note": null,
+                "price": 679900,
+                "images": null,
+                "productOptionValues": [
+                    131,
+                    163,
+                    90
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 131,
+                        "value": "黄色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 10000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 765,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 256GB 红色 全网通",
+                "note": null,
+                "price": 679900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    133,
+                    90
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 133,
+                        "value": "红色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 10000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 766,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 256GB 紫色 全网通",
+                "note": null,
+                "price": 679900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    341,
+                    90
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 341,
+                        "value": "紫色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 10000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 767,
+                "productId": 32290,
+                "name": "苹果 iPhone 11 256GB 绿色 全网通",
+                "note": null,
+                "price": 679900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    342,
+                    90
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 342,
+                        "value": "绿色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 10000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            }
+        ],
+        "bargainPromotions": []
+    },
+    "debugMessage": null
+}

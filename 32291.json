@@ -1,0 +1,654 @@
+{
+    "code": 0,
+    "resultMessage": "",
+    "data": {
+        "productId": 32291,
+        "productName": "苹果 iPhone 11 Pro",
+        "status": null,
+        "title": "Apple iPhone 11 Pro",
+        "subtitle": "移动联通电信4G手机 双卡双待",
+        "stockExist": null,
+        "inventoryType": 1,
+        "thumbnailMedias": null,
+        "headerMedias": [
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/6702694da06497a8MTU3MTMxMDM5Mzc5Mg==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/b6cc1fdd85738f35MTU3MTMxMDQwNDQ2Nw==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/ad922829f415c1f3MTU3MTMxMDQwOTYyNQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/e320858b2d9923daMTU3MTMxMDQ0MDcxMQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/c49de383d29808a3MTU3MTMxMDQ0NTg0OQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/2461a6a0c4d4b3dbMTU3MTMxMDQ4MTU0MQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/b6cc1fdd85738f35MTU3MTMxMDQ5MTY1OQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/15d9c43f11b0ab52MTU3MTMxMDQ5ODAyMw==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/262a835c3b758648MTU3MTMxMDUxMTU2Mg==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/96bdbdc091137a02MTU3MTMxMDUyNzk3Mg==.jpg",
+                "videoUrl": null
+            }
+        ],
+        "introduction": [],
+        "specification": null,
+        "specifications": null,
+        "service": [
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-service-img/564aadc5667a5ee6(1)MTU2ODg5NzUzNzAwNA==.jpg"
+            }
+        ],
+        "tags": [
+            {
+                "type": 1,
+                "items": [
+                    {
+                        "text": "正品自营"
+                    }
+                ]
+            }
+        ],
+        "productOptions": [
+            {
+                "id": 2,
+                "name": "存储空间",
+                "note": "",
+                "values": [
+                    {
+                        "id": 2,
+                        "value": "64GB",
+                        "note": ""
+                    },
+                    {
+                        "id": 164,
+                        "value": "512GB",
+                        "note": "-"
+                    },
+                    {
+                        "id": 90,
+                        "value": "256GB",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "颜色",
+                "note": "",
+                "values": [
+                    {
+                        "id": 343,
+                        "value": "暗夜绿色 ",
+                        "note": ""
+                    },
+                    {
+                        "id": 92,
+                        "value": "金色",
+                        "note": ""
+                    },
+                    {
+                        "id": 93,
+                        "value": "深空灰色",
+                        "note": ""
+                    },
+                    {
+                        "id": 94,
+                        "value": "银色",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "id": 41,
+                "name": "网络类型",
+                "note": "",
+                "values": [
+                    {
+                        "id": 163,
+                        "value": "全网通",
+                        "note": "-"
+                    }
+                ]
+            }
+        ],
+        "optionImage": {
+            "optionId": 3,
+            "optionImages": [
+                {
+                    "optionValueId": 343,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/6702694da06497a8MTU3MTMxMDUzOTA3Mw==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/b6cc1fdd85738f35MTU3MTMxMDU0NzYzMw==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 92,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/c49de383d29808a3MTU3MTMxMDU2MTg2OA==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/2e408cd3b343b09bMTU3MTMxMDU2Nzk5Mg==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 93,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/e320858b2d9923daMTU3MTMxMDU3OTkwMw==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/1b3ef4cba258d7c1MTU3MTMxMDY1NzY3NQ==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 94,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/2461a6a0c4d4b3dbMTU3MTMxMDYyOTA1OA==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/15d9c43f11b0ab52MTU3MTMxMDY2MzE1Nw==.jpg"
+                    ]
+                }
+            ]
+        },
+        "skus": [
+            {
+                "id": 768,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 64GB 金色 全网通",
+                "note": null,
+                "price": 869900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    92
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 92,
+                        "value": "金色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 769,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 64GB 深空灰色 全网通",
+                "note": null,
+                "price": 869900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    93
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 93,
+                        "value": "深空灰色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 770,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 64GB 银色 全网通",
+                "note": null,
+                "price": 869900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    94
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 94,
+                        "value": "银色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 771,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 64GB 暗夜绿色  全网通",
+                "note": null,
+                "price": 869900,
+                "images": null,
+                "productOptionValues": [
+                    2,
+                    163,
+                    343
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 2,
+                        "value": "64GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 343,
+                        "value": "暗夜绿色 "
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 772,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 256GB 金色 全网通",
+                "note": null,
+                "price": 999900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    90,
+                    92
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 92,
+                        "value": "金色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 40000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 773,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 256GB 深空灰色 全网通",
+                "note": null,
+                "price": 999900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    90,
+                    93
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 93,
+                        "value": "深空灰色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 40000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 774,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 256GB 银色 全网通",
+                "note": null,
+                "price": 999900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    90,
+                    94
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 94,
+                        "value": "银色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 40000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 775,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 256GB 暗夜绿色  全网通",
+                "note": null,
+                "price": 999900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    343,
+                    90
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 343,
+                        "value": "暗夜绿色 "
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 40000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 776,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 512GB 金色 全网通",
+                "note": null,
+                "price": 1179900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    164,
+                    92
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 164,
+                        "value": "512GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 92,
+                        "value": "金色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 777,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 512GB 深空灰色 全网通",
+                "note": null,
+                "price": 1179900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    164,
+                    93
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 164,
+                        "value": "512GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 93,
+                        "value": "深空灰色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 778,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 512GB 银色 全网通",
+                "note": null,
+                "price": 1179900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    164,
+                    94
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 164,
+                        "value": "512GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 94,
+                        "value": "银色"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 779,
+                "productId": 32291,
+                "name": "苹果 iPhone 11 Pro 512GB 暗夜绿色  全网通",
+                "note": null,
+                "price": 1179900,
+                "images": null,
+                "productOptionValues": [
+                    163,
+                    164,
+                    343
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 164,
+                        "value": "512GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 343,
+                        "value": "暗夜绿色 "
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 163,
+                        "value": "全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            }
+        ],
+        "bargainPromotions": []
+    },
+    "debugMessage": null
+}

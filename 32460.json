@@ -1,0 +1,1463 @@
+{
+    "code": 0,
+    "resultMessage": "",
+    "data": {
+        "productId": 32460,
+        "productName": "华为 Mate 30",
+        "status": null,
+        "title": "华为 HUAWEI Mate 30",
+        "subtitle": "麒麟990旗舰芯片4000万超感光徕卡影像双超级快充屏内指纹",
+        "stockExist": null,
+        "inventoryType": 1,
+        "thumbnailMedias": null,
+        "headerMedias": [
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/a237b90a6a240baeMTU3MTMxMjU5Mzg2OA==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/88771c48f6f46005MTU3MTMxMjU5OTY0Ng==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/e89a1a427b814e45MTU3MTMxMjYwNTU0OQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/d189e56d89d975b6MTU3MTMxMjYxMDk5Mg==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/c38ecd3eb1f949f5MTU3MTMxMjYyMzQwNg==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/fef167a8de5e1b4cMTU3MTMxMjYzNjE5NA==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/91b66f5f720724d1MTU3MTMxMjY0MjQ0NQ==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/46d7a942a8cfbdecMTU3MTMxMjY0Nzk3Mw==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/ef1fa4082b2ca505MTU3MTMxMjY1NDA2Nw==.jpg",
+                "videoUrl": null
+            },
+            {
+                "type": 1,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-img/3c375b6d88723a4fMTU3MTMxMjY1ODg0MQ==.jpg",
+                "videoUrl": null
+            }
+        ],
+        "introduction": [
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/fc81ae477c41ce7fMTU3MjU5MTQ3MjU3MA==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_01MTU3MjU5MDkzODk2Mg==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_02MTU3MjU5MDk0NDgxOA==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_03MTU3MjU5MDk1MTI1Mg==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_04MTU3MjU5MDk1NzI4Mw==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_05MTU3MjU5MDk2MzQ3NQ==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_06MTU3MjU5MDk2OTAxMA==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_07MTU3MjU5MDk3MzQ0Ng==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_08MTU3MjU5MDk3ODkyMw==.jpg"
+            },
+            {
+                "type": 2,
+                "text": null,
+                "imageUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-brief-img/mate30_09MTU3MjU5MTUxNjIzNQ==.jpg"
+            }
+        ],
+        "specification": null,
+        "specifications": [
+            {
+                "type": "主体",
+                "name": "品牌",
+                "value": "华为"
+            },
+            {
+                "type": "主体",
+                "name": "型号",
+                "value": "HUAWEI Mate 30"
+            },
+            {
+                "type": "主体",
+                "name": "入网型号",
+                "value": "TAS-AL00"
+            },
+            {
+                "type": "主体",
+                "name": "上市年份",
+                "value": "2019年"
+            },
+            {
+                "type": "主体",
+                "name": "上市月份",
+                "value": "9月"
+            },
+            {
+                "type": "基本信息",
+                "name": "机身颜色",
+                "value": "星河银，亮黑色，翡冷翠，罗兰紫"
+            },
+            {
+                "type": "基本信息",
+                "name": "机身长度（mm）",
+                "value": "160.80000000000001"
+            },
+            {
+                "type": "基本信息",
+                "name": "机身宽度（mm）",
+                "value": "76.099999999999994"
+            },
+            {
+                "type": "基本信息",
+                "name": "机身厚度（mm）",
+                "value": "8.4"
+            },
+            {
+                "type": "基本信息",
+                "name": "运营商标志或内容",
+                "value": "无"
+            },
+            {
+                "type": "基本信息",
+                "name": "机身重量（g）",
+                "value": "196克（含电池） 备注：实际重量依配置、制造工艺、测量方法的不同可能有所差异。"
+            },
+            {
+                "type": "基本信息",
+                "name": "输入方式",
+                "value": "其他"
+            },
+            {
+                "type": "基本信息",
+                "name": "机身材质分类",
+                "value": "\n金属边框；玻璃后盖"
+            },
+            {
+                "type": "基本信息",
+                "name": "机身材质工艺",
+                "value": "其他"
+            },
+            {
+                "type": "操作系统",
+                "name": "操作系统",
+                "value": "Android(安卓)"
+            },
+            {
+                "type": "主芯片",
+                "name": "CPU品牌",
+                "value": "海思（Hisilicon）"
+            },
+            {
+                "type": "主芯片",
+                "name": "CPU频率",
+                "value": "2*Cortex-A76 Based 2.86GHz + 2*Cortex-A76 Based 2.09GHz + 4*Cortex-A55 1.86GHz"
+            },
+            {
+                "type": "主芯片",
+                "name": "CPU核数",
+                "value": "八核"
+            },
+            {
+                "type": "主芯片",
+                "name": "CPU型号",
+                "value": "\n麒麟990"
+            },
+            {
+                "type": "网络支持",
+                "name": "双卡机类型",
+                "value": "双卡双待"
+            },
+            {
+                "type": "网络支持",
+                "name": "最大支持SIM卡数量",
+                "value": "2个"
+            },
+            {
+                "type": "网络支持",
+                "name": "SIM卡类型",
+                "value": "Nano SIM"
+            },
+            {
+                "type": "网络支持",
+                "name": "4G网络",
+                "value": "\n4G TD-LTE(移动)；4G FDD-LTE(联通、电信)"
+            },
+            {
+                "type": "网络支持",
+                "name": "3G/2G网络",
+                "value": "\n3G TD-SCDMA(移动)；3G WCDMA(联通)；3G CDMA2000(电信)；2G GSM(移动/联通)；2G CDMA(电信)"
+            },
+            {
+                "type": "网络支持",
+                "name": "副SIM卡类型",
+                "value": "Nano SIM"
+            },
+            {
+                "type": "网络支持",
+                "name": "网络频率（2G/3G）",
+                "value": "其他"
+            },
+            {
+                "type": "网络支持",
+                "name": "是否支持同时使用联通卡",
+                "value": "其他"
+            },
+            {
+                "type": "存储",
+                "name": "ROM",
+                "value": "128G"
+            },
+            {
+                "type": "存储",
+                "name": "RAM",
+                "value": "8GB"
+            },
+            {
+                "type": "存储",
+                "name": "存储卡",
+                "value": "其他"
+            },
+            {
+                "type": "屏幕",
+                "name": "主屏幕尺寸（英寸）",
+                "value": "6.62英寸"
+            },
+            {
+                "type": "屏幕",
+                "name": "分辨率",
+                "value": "FHD+ 2340×1080 像素 "
+            },
+            {
+                "type": "屏幕",
+                "name": "屏幕像素密度（ppi）",
+                "value": "其他"
+            },
+            {
+                "type": "屏幕",
+                "name": "屏幕材质类型",
+                "value": "OLED"
+            },
+            {
+                "type": "前置摄像头",
+                "name": "前置摄像头",
+                "value": "\n2400万像素"
+            },
+            {
+                "type": "前置摄像头",
+                "name": "前摄光圈大小",
+                "value": "f/2.0"
+            },
+            {
+                "type": "前置摄像头",
+                "name": "美颜技术",
+                "value": "支持"
+            },
+            {
+                "type": "前置摄像头",
+                "name": "照片最大分辨率",
+                "value": "FHD+ 2340×1080 像素 "
+            },
+            {
+                "type": "前置摄像头",
+                "name": "拍照特点",
+                "value": "\n全景；滤镜；水印；人像模式"
+            },
+            {
+                "type": "后置摄像头",
+                "name": "摄像头数量",
+                "value": "后置三摄"
+            },
+            {
+                "type": "后置摄像头",
+                "name": "后置摄像头",
+                "value": "\n4000万像素+\n1600万像素+\n800万像素"
+            },
+            {
+                "type": "后置摄像头",
+                "name": "拍照特点",
+                "value": "\n连拍；微距；全景；滤镜；HDR；水印；超广角；人像模式"
+            },
+            {
+                "type": "电池信息",
+                "name": "电池容量（mAh）",
+                "value": "4200mAh（典型值） 备注：电池额定容量为4100mAh"
+            },
+            {
+                "type": "电池信息",
+                "name": "电池是否可拆卸",
+                "value": "电池不可拆卸"
+            },
+            {
+                "type": "电池信息",
+                "name": "充电器",
+                "value": "5V/2A；9V/2A；10V/4A"
+            },
+            {
+                "type": "数据接口",
+                "name": "数据传输接口",
+                "value": "红外；WIFI；NFC；蓝牙；WiFi热点；OTG接口；WiFi Direct"
+            },
+            {
+                "type": "数据接口",
+                "name": "NFC/NFC模式",
+                "value": "\n支持（点对点模式）；支持（读卡器模式）；支持卡模拟"
+            },
+            {
+                "type": "数据接口",
+                "name": "耳机接口类型",
+                "value": "3.5mm"
+            },
+            {
+                "type": "数据接口",
+                "name": "充电接口类型",
+                "value": "Type-C"
+            },
+            {
+                "type": "手机特性",
+                "name": "陀螺仪",
+                "value": "支持"
+            },
+            {
+                "type": "手机特性",
+                "name": "GPS",
+                "value": "支持"
+            },
+            {
+                "type": "手机特性",
+                "name": "指纹识别",
+                "value": "支持"
+            },
+            {
+                "type": "手机特性",
+                "name": "其他",
+                "value": "人脸识别；屏幕光学指纹"
+            },
+            {
+                "type": "辅助功能",
+                "name": "常用功能",
+                "value": "收音机；录音；手势识别；便签；语音转文字；语音识别；护眼模式；计算器；文字转语音；语音命令"
+            }
+        ],
+        "service": [],
+        "tags": [
+            {
+                "type": 1,
+                "items": [
+                    {
+                        "text": "正品自营"
+                    }
+                ]
+            }
+        ],
+        "productOptions": [
+            {
+                "id": 1,
+                "name": "内存容量",
+                "note": "",
+                "values": [
+                    {
+                        "id": 6,
+                        "value": "6GB",
+                        "note": ""
+                    },
+                    {
+                        "id": 88,
+                        "value": "8GB",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "存储空间",
+                "note": "",
+                "values": [
+                    {
+                        "id": 7,
+                        "value": "128GB",
+                        "note": ""
+                    },
+                    {
+                        "id": 90,
+                        "value": "256GB",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "颜色",
+                "note": "",
+                "values": [
+                    {
+                        "id": 374,
+                        "value": "丹霞橙",
+                        "note": ""
+                    },
+                    {
+                        "id": 375,
+                        "value": "青山黛",
+                        "note": ""
+                    },
+                    {
+                        "id": 26,
+                        "value": "亮黑色",
+                        "note": ""
+                    },
+                    {
+                        "id": 363,
+                        "value": "罗兰紫",
+                        "note": ""
+                    },
+                    {
+                        "id": 364,
+                        "value": "星河银",
+                        "note": ""
+                    },
+                    {
+                        "id": 111,
+                        "value": "翡冷翠",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "id": 41,
+                "name": "网络类型",
+                "note": "",
+                "values": [
+                    {
+                        "id": 91,
+                        "value": "4G全网通",
+                        "note": ""
+                    },
+                    {
+                        "id": 365,
+                        "value": "5G全网通",
+                        "note": ""
+                    }
+                ]
+            }
+        ],
+        "optionImage": {
+            "optionId": 3,
+            "optionImages": [
+                {
+                    "optionValueId": 374,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/92a795c39171b8c2MTU3MjMyMTEwNTE5Nw==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/28b7d02800f4f2baMTU3MjMyMTA4OTkwOQ==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 375,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/856d3cb89ac41683MTU3MjMyMTEyNzE4Ng==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/b82fb38d9368e5aeMTU3MjMyMTIxMjExMQ==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 26,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/d189e56d89d975b6MTU3MTMxMjY3NzEzMQ==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/46d7a942a8cfbdecMTU3MTMxMjY4MTQwOQ==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 363,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/a237b90a6a240baeMTU3MTMxMjY5MzM0Ng==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/c38ecd3eb1f949f5MTU3MTMxMjY5ODg5OA==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 364,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/88771c48f6f46005MTU3MTMxMjcxMzE3NQ==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/fef167a8de5e1b4cMTU3MTMxMjcxODQwMw==.jpg"
+                    ]
+                },
+                {
+                    "optionValueId": 111,
+                    "imageUrls": [
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/e89a1a427b814e45MTU3MTMxMjcyNjMzNA==.jpg",
+                        "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/91b66f5f720724d1MTU3MTMxMjczMjM2MQ==.jpg"
+                    ]
+                }
+            ]
+        },
+        "skus": [
+            {
+                "id": 818,
+                "productId": 32460,
+                "name": "华为 Mate 30 6GB 128GB 亮黑色 4G全网通",
+                "note": null,
+                "price": 399900,
+                "images": null,
+                "productOptionValues": [
+                    6,
+                    7,
+                    26,
+                    91
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 26,
+                        "value": "亮黑色"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 6,
+                        "value": "6GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 819,
+                "productId": 32460,
+                "name": "华为 Mate 30 6GB 128GB 翡冷翠 4G全网通",
+                "note": null,
+                "price": 399900,
+                "images": null,
+                "productOptionValues": [
+                    6,
+                    7,
+                    91,
+                    111
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 111,
+                        "value": "翡冷翠"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 6,
+                        "value": "6GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 820,
+                "productId": 32460,
+                "name": "华为 Mate 30 6GB 128GB 罗兰紫 4G全网通",
+                "note": null,
+                "price": 399900,
+                "images": null,
+                "productOptionValues": [
+                    6,
+                    7,
+                    363,
+                    91
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 363,
+                        "value": "罗兰紫"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 6,
+                        "value": "6GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 821,
+                "productId": 32460,
+                "name": "华为 Mate 30 6GB 128GB 星河银 4G全网通",
+                "note": null,
+                "price": 399900,
+                "images": null,
+                "productOptionValues": [
+                    6,
+                    7,
+                    91,
+                    364
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 364,
+                        "value": "星河银"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 6,
+                        "value": "6GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 822,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 亮黑色 4G全网通",
+                "note": null,
+                "price": 429900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    26,
+                    91
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 26,
+                        "value": "亮黑色"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 823,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 翡冷翠 4G全网通",
+                "note": null,
+                "price": 429900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    91,
+                    111
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 111,
+                        "value": "翡冷翠"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 824,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 罗兰紫 4G全网通",
+                "note": null,
+                "price": 429900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    363,
+                    91
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 363,
+                        "value": "罗兰紫"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 825,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 星河银 4G全网通",
+                "note": null,
+                "price": 429900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    91,
+                    364
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 364,
+                        "value": "星河银"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 91,
+                        "value": "4G全网通"
+                    }
+                ],
+                "subsidyAmount": 30000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 2,
+                "stockExist": true
+            },
+            {
+                "id": 877,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 亮黑色 5G全网通",
+                "note": null,
+                "price": 499900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    26,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 26,
+                        "value": "亮黑色"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 878,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 翡冷翠 5G全网通",
+                "note": null,
+                "price": 499900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    365,
+                    111
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 111,
+                        "value": "翡冷翠"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 879,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 罗兰紫 5G全网通",
+                "note": null,
+                "price": 499900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    363,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 363,
+                        "value": "罗兰紫"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 880,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 星河银 5G全网通",
+                "note": null,
+                "price": 499900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    88,
+                    364,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 364,
+                        "value": "星河银"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 882,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 丹霞橙 5G全网通",
+                "note": null,
+                "price": 499900,
+                "images": null,
+                "productOptionValues": [
+                    374,
+                    7,
+                    88,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 374,
+                        "value": "丹霞橙"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 884,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 128GB 青山黛 5G全网通",
+                "note": null,
+                "price": 499900,
+                "images": null,
+                "productOptionValues": [
+                    7,
+                    375,
+                    88,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 7,
+                        "value": "128GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 375,
+                        "value": "青山黛"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 886,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 256GB 亮黑色 5G全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    88,
+                    90,
+                    26,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 26,
+                        "value": "亮黑色"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 7,
+                "stockExist": true
+            },
+            {
+                "id": 888,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 256GB 翡冷翠 5G全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    88,
+                    90,
+                    365,
+                    111
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 111,
+                        "value": "翡冷翠"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 890,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 256GB 罗兰紫 5G全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    88,
+                    90,
+                    363,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 363,
+                        "value": "罗兰紫"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 892,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 256GB 星河银 5G全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    88,
+                    90,
+                    364,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 364,
+                        "value": "星河银"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 3,
+                "stockExist": true
+            },
+            {
+                "id": 894,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 256GB 丹霞橙 5G全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    374,
+                    88,
+                    90,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 374,
+                        "value": "丹霞橙"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            },
+            {
+                "id": 896,
+                "productId": 32460,
+                "name": "华为 Mate 30 8GB 256GB 青山黛 5G全网通",
+                "note": null,
+                "price": 549900,
+                "images": null,
+                "productOptionValues": [
+                    375,
+                    88,
+                    90,
+                    365
+                ],
+                "productOptions": [
+                    {
+                        "optionId": 2,
+                        "name": "存储空间",
+                        "valueId": 90,
+                        "value": "256GB"
+                    },
+                    {
+                        "optionId": 3,
+                        "name": "颜色",
+                        "valueId": 375,
+                        "value": "青山黛"
+                    },
+                    {
+                        "optionId": 1,
+                        "name": "内存容量",
+                        "valueId": 88,
+                        "value": "8GB"
+                    },
+                    {
+                        "optionId": 41,
+                        "name": "网络类型",
+                        "valueId": 365,
+                        "value": "5G全网通"
+                    }
+                ],
+                "subsidyAmount": 20000,
+                "subsidyTags": [
+                    "以旧换新补贴"
+                ],
+                "quantity": 0,
+                "stockExist": false
+            }
+        ],
+        "bargainPromotions": []
+    },
+    "debugMessage": null
+}
